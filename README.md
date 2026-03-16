@@ -21,4 +21,4 @@ My current thought process is...
 2) Create a CSS file that will make all of the text look nice and formatted in the way I want
 3) Work on changing the domain name from akondreddy.github.io to akondreddy.com. Using Cloudflare and GitHub's settings for this but I'm pretty lost on this. Need to get it working soon because my page isn't loading without it.
 
-There is definitely more that goes into it but these are my current goals. 
+There is definitely more that goes into it but these are my current goals. Any other ideas on how to bring this project to life would be greatly appreciated!
