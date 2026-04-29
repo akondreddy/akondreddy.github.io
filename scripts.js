@@ -1,5 +1,5 @@
 // ===== STATE =====
-const WIN_IDS = ['about', 'links', 'contact'];
+const WIN_IDS = ['about', 'links', 'projects', 'contact'];
 const state = {};
 WIN_IDS.forEach(id => {
   state[id] = { open: false, minimized: false, maximized: false };
