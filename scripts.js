@@ -156,3 +156,10 @@ document.addEventListener('mousemove', e => {
 });
 
 document.addEventListener('mouseup', () => { dragging = null; });
+
+
+
+/* ==== THEME MODIFIER ==== */
+function themeModify(id){
+  
+}

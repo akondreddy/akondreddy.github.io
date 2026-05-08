@@ -440,6 +440,23 @@ html, body {
   color: var(--accent);
 }
 
+/* ===== WORK ===== */
+.work-set{
+  font-family: var(--font-main);
+  font-size: 23px;
+  color: var(--accent);
+}
+
+.work-name{
+  font-family: var(--font-mono);
+  font-size: 18px;
+  color: var(--text-dim);
+  margin-bottom: 5px;
+}
+
+
+
+
 /* ===== CONTACT ===== */
 .contact-heading {
   font-family: var(--font-main);
@@ -515,3 +532,7 @@ html, body {
 }
 
 .contact-ig a:hover { text-decoration: underline; }
+
+.break {
+  white-space: pre-wrap;
+}
